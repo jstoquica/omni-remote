@@ -1,0 +1,6 @@
+module RemoteMiddleware {
+  interface RemoteCalculator {
+    double add(in double x, in double y);
+  };
+};
+
